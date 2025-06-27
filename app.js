@@ -86,9 +86,7 @@ document.write("Random number between 1 and 100: " + userNumber);
 
 
 var userInput_weight = prompt("Enter your weight (50, 50kgs, 50.2kgs, 50.2kilograms):");
-
 var user_weight = parseFloat(userInput_weight);
-
 document.write("The weight of user is " + user_weight + " kilograms")
 
 
